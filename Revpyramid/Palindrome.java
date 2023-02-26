@@ -18,10 +18,10 @@ class Palindrome
         }
         if (num == rev)
         {
-            System.out.println("enter is palindrome . ");
+            System.out.println("number is palindrome . ");
         }else
         {
-            System.out.println("enter is not  palindrome . ");
+            System.out.println(" number is not  palindrome . ");
         }
         sc.close();
     }
